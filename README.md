@@ -1,4 +1,4 @@
-# Project: Error Handling in Solidity Smart Contracts
+# Project: Error Handling in Solidity Smart Contracts (Simple Inventory)
 The contract also showcases basic inventory management functionality, where users can set item details and update quantities, while handling potential errors. It demonstrates the use of various error handling mechanisms, such as require(), assert(), and revert().
 
 
